@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093831899425",
+    "firebase_url": "https://joke-sharing-app.firebaseio.com",
+    "project_id": "joke-sharing-app",
+    "storage_bucket": "joke-sharing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093831899425:android:95b9ba3c851ad7e7",
+        "android_client_info": {
+          "package_name": "com.sbello.jokesharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093831899425-1s6krjghk325l1dq0bdtf3fdcog7behl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbello.jokesharingapp",
+            "certificate_hash": "40c9aa50ec68ec88a440dc6a3bb4aa2a59b3da11"
+          }
+        },
+        {
+          "client_id": "1093831899425-qgktpm1qf8d90f3efgqp6cmk0mgr8g7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdeEHQISzZ-QY_FeG34Sb-FYHznms4gzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093831899425-qgktpm1qf8d90f3efgqp6cmk0mgr8g7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

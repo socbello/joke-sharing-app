@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LOL Joke Sharing</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="failed_label">Please check you credentials</string>
+    <string name="success_label">Success!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_account_failed">Create account failed.</string>
+    <string name="or_label">or</string>
+    <string name="please_fill_the_required_information">Please fill the required information:</string>
+    <string name="logout">Logout</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send">Send</string>
+    <string name="description">Write your joke</string>
+    <string name="rating">Rating</string>
+    <string name="email">Email</string>
+    <string name="title_joke">Title of the Joke</string>
+</resources>
