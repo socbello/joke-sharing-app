@@ -12,7 +12,6 @@
     <string name="or_label">or</string>
     <string name="please_fill_the_required_information">Please fill the required information:</string>
     <string name="logout">Logout</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="send">Send</string>
     <string name="description">Write your joke</string>
     <string name="rating">Rating</string>
